@@ -1,4 +1,1 @@
-initial-test
-second
-third
-force
+1st
