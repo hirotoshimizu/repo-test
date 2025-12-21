@@ -1,5 +1,3 @@
-initial-test
-second
-third
-force
-fi
+test1
+test2
+test3
